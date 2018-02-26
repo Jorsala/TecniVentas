@@ -1,13 +1,13 @@
 # TecniVentas
 Sistema para llevar un control de Stock y Ventas
-
-Requerimientos
--Control de Bodega (Stock)
-  --Productos en Existencia
- 
--Control de Usuarios
-  --Diferentes Niveles de Accesos
--Control de Reportes (Por Usuario y por Cliente)
--Control de Compras
--Control de Ventas
--Impresion de Recibos
+</br></br>
+Requerimientos </br>
+-Control de Bodega (Stock)</br>
+  --Productos en Existencia</br>
+ </br></br>
+-Control de Usuarios</br>
+  --Diferentes Niveles de Accesos</br>
+-Control de Reportes (Por Usuario y por Cliente)</br>
+-Control de Compras</br>
+-Control de Ventas</br>
+-Impresion de Recibos</br>
